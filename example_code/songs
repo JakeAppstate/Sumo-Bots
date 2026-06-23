@@ -1,10 +1,10 @@
 #imperial march, possibly
-#imperial = (
-    #"! O5 T100 L8 "
-   # "g g g "
-  #  "d.16 <b- g "
- #   "d.16 <b- g "
-#    "d >d d "
-#  "<b- f e- d "
- #   "<b-"
-#)
+imperial = (
+    "! O5 T100 L8 "
+     "g g g "
+      "d.16 <b- g "
+       "d.16 <b- g "
+        "d >d d "
+      "<b- f e- d "
+       "<b-"
+)
