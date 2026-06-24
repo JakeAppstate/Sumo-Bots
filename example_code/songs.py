@@ -1,3 +1,5 @@
+from zumo_2040_robot import robot
+import time
 #imperial march, possibly
 imperial = (
     "! O5 T100 L8 "
