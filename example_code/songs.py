@@ -10,3 +10,4 @@ imperial = (
       "<b- f e- d "
        "<b-"
 )
+buzzer.play_in_background(imperial)
